@@ -1,7 +1,7 @@
 # YouTube-LiveChatUsers
 
 Gets a list of livechat users sorted by first message. Users are only added since the script started running
-so leave start the script at the beginning of a livestream. Use `secret.json` to set your API Key, the liveStreamID and the time interval for refreshing the list.
+so start the script at the beginning of a livestream and leave it running. Use `secret.json` to set your API Key, the liveStreamID and the time interval for refreshing the list.
 
 # secret.json
 
