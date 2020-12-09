@@ -11,7 +11,7 @@ API calls to the YouTube API need a Google API Key. A (limited) free Google API 
 
 You will also need the provide the liveStreamID. The liveStreamID can be found in the video URL. It is the part after `watch?v=`. Enter this ID under "liveStreamId:". 
 
-The interval is the time in ms after which the list is updated. Be aware that YouTube limits the number of calls to their API, so you might want to exit the app when you are one using it.
+The interval is the time in ms after which the list is updated. Be aware that YouTube limits the number of calls to their API, so you might want to exit the app when you are not using it.
 
 # NodeJS, npm and node-fetch
 
