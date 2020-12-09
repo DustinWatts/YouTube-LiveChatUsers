@@ -17,6 +17,7 @@ The interval is the time in ms after which the list is updated. Be aware that Yo
 
 This app uses NodeJS and node-fetch
 
+## Linux
 Node.js is an open-source cross-platform JavaScript run-time environment. To install NodeJS:
 
 `sudo apt install nodejs` -or- download from https://nodejs.org/en/
@@ -28,6 +29,12 @@ npm is a package manager used to add modules to NodeJS. To install npm:
 In the directory the livechatusers.js lives:
 
 `npm install node-fetch`
+
+## MacOS
+
+https://treehouse.github.io/installation-guides/mac/node-mac.html
+
+
 
 
 
