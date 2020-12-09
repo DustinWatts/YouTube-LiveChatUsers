@@ -34,6 +34,9 @@ In the directory the livechatusers.js lives:
 
 https://treehouse.github.io/installation-guides/mac/node-mac.html
 
+In the directory the livechatusers.js lives:
+
+`npm install node-fetch`
 
 
 
